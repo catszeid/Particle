@@ -1,0 +1,26 @@
+canvas {
+	box-sizing: border-box;
+}
+
+header {
+	border: 3px solid black;
+	background-color: lightBlue;
+	text-align: center;
+	margin: 5px auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.box {
+	background-color: lightBlue;
+	border: 3px solid black;
+}
+
+#canvasContainer {
+	border: 3px solid black;
+	background-color: #0000ff;
+	text-align: center;
+	margin: 5px auto;
+}
